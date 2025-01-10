@@ -1,0 +1,15 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button-container button {
+    color: #fff;
+    background-color: #fa6400;
+    border: 0px !important;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}

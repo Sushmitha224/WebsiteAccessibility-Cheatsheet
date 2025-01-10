@@ -1,0 +1,19 @@
+.search-styles input {
+    padding: 14px 20px;
+    font-size: 18px;
+    color: #000;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin-right: 10px;
+}
+
+
+.search-styles button {
+    color: #fff;
+    background-color: #fa6400;
+    border: 0px !important;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
