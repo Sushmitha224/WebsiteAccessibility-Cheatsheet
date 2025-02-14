@@ -43,7 +43,7 @@ const App = () => {
   }, [searchKeyword]);
 
   return (
-    <Router basename="/">
+    <Router basename="/WebsiteAccessibility-Cheatsheet">
       <Routes>
         <Route path="/" element={<DefaultLayout content={null} setSearchKeyword={setSearchKeyword} foundResult={foundResult} searchKeyword={searchKeyword}/>} />
         <Route path="/zoomreflowtextspacing" element={<ZoomReflowTextSpacing />} />
