@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sushmitha224/Accessibility-Cheatsheet/static/css/main.e85d1212.css",
+    "main.js": "/Sushmitha224/Accessibility-Cheatsheet/static/js/main.5fb50b0a.js",
+    "index.html": "/Sushmitha224/Accessibility-Cheatsheet/index.html",
+    "main.e85d1212.css.map": "/Sushmitha224/Accessibility-Cheatsheet/static/css/main.e85d1212.css.map",
+    "main.5fb50b0a.js.map": "/Sushmitha224/Accessibility-Cheatsheet/static/js/main.5fb50b0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e85d1212.css",
+    "static/js/main.5fb50b0a.js"
+  ]
+}
